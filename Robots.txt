@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Bkps/
+Sitemap: http://www.universitariosolidario.com.br/sitemap.xml  
